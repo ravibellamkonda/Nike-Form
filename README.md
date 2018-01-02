@@ -3,8 +3,7 @@
 For beginners like me to learn the concepts in [Redux](https://github.com/reactjs/redux)
 
 To run this example:
-
-1. [Download this repo](https://github.com/jackielii/simplest-redux-example/archive/master.zip) or `git clone https://github.com/jackielii/simplest-redux-example.git`
+`git clone https://github.com/ravibellamkonda/Nike-Form/simplest-redux-example.git`
 2. From the repo folder run:  
    `npm install`
 3. `npm start`
